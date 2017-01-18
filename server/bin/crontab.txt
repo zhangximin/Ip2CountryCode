@@ -1,0 +1,1 @@
+0 10 2 * * /usr/local/Ip2C/reload.sh
